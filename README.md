@@ -14,6 +14,7 @@ Arrow Keys (left and right)
 # Requirements
 - Python 3.x
 - pygame
+- pygbag
 
 # Preview
 <img width="1739" height="1198" alt="image" src="https://github.com/user-attachments/assets/78d7da31-c786-49f0-acda-01ebd6ad634b" />
