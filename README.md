@@ -16,5 +16,6 @@ Arrow Keys (left and right)
 
 
 # Requirements
-pygame
-python 3.x
+- Python 3.x
+- pygame
+
