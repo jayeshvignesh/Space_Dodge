@@ -18,4 +18,3 @@ Arrow Keys (left and right)
 # Requirements
 - Python 3.x
 - pygame
-
